@@ -1,0 +1,16 @@
+body {
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+h1,
+h2 {
+    font-weight: 700;
+}
+
+button {
+    width: 200px;
+}
+
+nav {
+    background-color: #e3f2fd;
+}
